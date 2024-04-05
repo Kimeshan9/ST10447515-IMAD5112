@@ -17,3 +17,5 @@ My History Android App is a app that matches the age inputed by the user to a de
 1. Clone the repository.
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
+
+Youtube link: https://youtu.be/TruV24WMZFg
